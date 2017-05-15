@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_enter.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_enter.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_hyperspace_in.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_hyperspace_in.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_hyperspace_out.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_hyperspace_out.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_exit.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_exit.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_up_out.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_up_out.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_right_in.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_right_in.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_other.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_other.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_exit_back.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_exit_back.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_up_in.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_up_in.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_left_out.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_left_out.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_enter_back.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_enter_back.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_right_out.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_right_out.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_hold.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_hold.xml"
+    },
+    {
+        "merged": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_left_in.xml",
+        "source": "/home/vishal/AndroidStudioProjects/ImportSDKDemo/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_left_in.xml"
+    }
+]
