@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hesl/Dropbox/Vishal/Programs/FPVDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/layout/dialog_login.xml",
+        "source": "/home/hesl/Dropbox/Vishal/Programs/FPVDemo/dJISDKLIB/build/intermediates/bundles/debug/res/layout/dialog_login.xml"
+    },
+    {
+        "merged": "/home/hesl/Dropbox/Vishal/Programs/FPVDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/layout/log_dialog_view.xml",
+        "source": "/home/hesl/Dropbox/Vishal/Programs/FPVDemo/dJISDKLIB/build/intermediates/bundles/debug/res/layout/log_dialog_view.xml"
+    }
+]
